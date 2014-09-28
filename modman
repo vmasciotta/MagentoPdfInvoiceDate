@@ -1,0 +1,5 @@
+#app
+app/code/community/Vmasciotta/PdfInvoiceDate                    app/code/community/Vmasciotta/PdfInvoiceDate
+
+#app modules
+app/etc/modules/Vmasciotta_PdfInvoiceDate.xml                   app/etc/modules/Vmasciotta_PdfInvoiceDate.xml

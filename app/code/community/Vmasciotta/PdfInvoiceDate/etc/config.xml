@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<config>
+    <modules>
+        <Vmasciotta_PdfInvoiceDate>
+            <version>1.0.0</version>
+        </Vmasciotta_PdfInvoiceDate>
+    </modules>
+    <global>
+        <models>
+            <vmasciotta_pdfinvoicedate>
+                <class>Unlace_PdfInvoiceDate_Model</class>
+            </vmasciotta_pdfinvoicedate>
+            <sales>
+                <rewrite>
+                    <order_pdf_invoice>Vmasciotta_PdfInvoiceDate_Model_Order_Pdf_Invoice</order_pdf_invoice>
+                </rewrite>
+            </sales>
+        </models>
+    </global>
+</config>
