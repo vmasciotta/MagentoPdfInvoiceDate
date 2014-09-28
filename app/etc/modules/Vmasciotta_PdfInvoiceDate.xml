@@ -3,7 +3,7 @@
     <modules>
         <Vmasciotta_PdfInvoiceDate>
             <active>true</active>
-            <codePool>local</codePool>
+            <codePool>community</codePool>
         </Vmasciotta_PdfInvoiceDate>
     </modules>
 </config>
